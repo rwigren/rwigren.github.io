@@ -17,7 +17,7 @@ about:
 Hi! I'm Richard, a guy with a passion for data-modeling and clean solutions. Below are some links and explanations to some of my github projects. Feel free to have a look!
 
 
-### Plot quick ref [Go to](https://rwigren.github.io/plot-quick-ref/){.btn .btn-outline-primary .btn role="button" style="float: right;"}
+### Plot quick ref [Go to](https://rwigren.github.io/Plot-quick-ref/){.btn .btn-outline-primary .btn role="button" style="float: right;"}
 
 A semi-compact reference for some popular plotting frameworks in R and Python, with examples of useful plots and information about mechanics, themes, extensions and other. Currently [ggplot2](https://ggplot2.tidyverse.org/) and [seaborn](https://seaborn.pydata.org/) has been added and are being worked on. Future additions are likely to include [Altair-vega](https://altair-viz.github.io/). 
 
