@@ -1,0 +1,14 @@
+project:
+  type: website
+  output-dir: .
+
+website:
+  title: "Richard Wigren"
+  open-graph: true
+  navbar:
+    search: false
+    background: secondary
+   
+format:
+  html:
+    theme: [cosmo, styles.scss]
